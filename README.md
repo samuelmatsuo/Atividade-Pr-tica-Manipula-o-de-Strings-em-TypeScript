@@ -34,7 +34,7 @@ Este projeto foi desenvolvido com o objetivo de praticar a manipulação de stri
    npm start
    ```
 
-5. O servidor estará rodando na porta definida no arquivo `.env` (padrão é 5032). Acesse `http://localhost:5032` para utilizar a API.
+5. O servidor estará rodando na porta definida no arquivo `.env` (padrão é 3000). Acesse `http://localhost:3000` para utilizar a API.
 
 ## Rotas disponíveis
 
