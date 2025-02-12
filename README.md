@@ -54,6 +54,3 @@ Este projeto foi desenvolvido com o objetivo de praticar a manipulação de stri
 - `GET /reverse/:text` - Inverte a string.
 - `GET /count-a/:text` - Conta o número de ocorrências da letra 'a' na string.
 
-## Contribuição
-
-Sinta-se à vontade para contribuir com este projeto. Para isso, faça um fork do repositório, crie uma branch para suas alterações e envie um pull request.
