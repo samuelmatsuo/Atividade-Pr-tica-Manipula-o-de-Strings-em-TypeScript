@@ -7,7 +7,7 @@ Este projeto foi desenvolvido com o objetivo de praticar a manipulação de stri
 1. Clone o repositório:
 
    ```sh
-   git clone https://github.com/seu-usuario/meu-projeto-node.git
+   git clone https://github.com/seu-usuario/meu-projeto-node.git](https://github.com/samuelmatsuo/Atividade-Pr-tica-Manipula-o-de-Strings-em-TypeScript.git
    ```
 
 2. Navegue até o diretório do projeto:
