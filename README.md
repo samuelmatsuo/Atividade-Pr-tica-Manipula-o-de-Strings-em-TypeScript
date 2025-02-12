@@ -13,7 +13,7 @@ Este projeto foi desenvolvido com o objetivo de praticar a manipulação de stri
 2. Navegue até o diretório do projeto:
 
    ```sh
-   cd meu-projeto-node
+   cd Atividade-Pr-tica-Manipula-o-de-Strings-em-TypeScript
    ```
 
 3. Instale as dependências:
